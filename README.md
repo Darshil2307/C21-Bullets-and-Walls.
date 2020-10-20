@@ -1,2 +1,2 @@
-# C21-Bullets-and-Walls.
-This project is about the reliability of walls against bullets.
+# p5.play-boilerplate
+Boiler plate for p5.play
